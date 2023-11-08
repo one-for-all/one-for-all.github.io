@@ -1,0 +1,30 @@
+baseURL: "https://example.org/"
+languageCode: "en-us"
+title: "lijay's site"
+theme: PaperMod
+
+params:
+  env: production
+  description: "lijay's site"
+  author: lijay
+  
+  defaultTheme: auto
+  ShowReadingTime: true
+  
+  profileMode:
+    enabled: false
+
+  homeInfoParams:
+    Title: "Welcome to lijay's site \U0001F44B"
+    Content: >
+        Hi, this is Jay!
+        
+        - I'm a roboticist and anthropologist by training, and a software engineer by trade.
+        
+        - I'm currently building helpful products using AI and exploring Japanese language and culture at the same time.
+        
+        - I use this space to write down my thoughts on human and on technology.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/one-for-all"
