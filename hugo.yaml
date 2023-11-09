@@ -3,6 +3,8 @@ languageCode: "en-us"
 title: "lijay's site"
 theme: PaperMod
 
+googleAnalytics: G-279D9BLDBV
+
 params:
   env: production
   description: "lijay's site"
