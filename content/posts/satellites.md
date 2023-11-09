@@ -11,7 +11,7 @@ level of sharing (which I might write about in a future post). Now another quest
 tasks would I be able to delegate to satellites.
 
 It turns out to be much less than I thought. Below is a list of things that I
-did on a day (chronologically):
+did in a day (chronologically):
 
 1. Quick breakfast
    - which I cannot delegate yet
