@@ -35,4 +35,4 @@ Looking at the above, two satellite roles emerge:
 2. Knowledge explorer and summarizer
 
 I am going to create a meal planner, since I have indeed been tired of choosing
-what I eat everytime anyway.
+what I eat everytime.
