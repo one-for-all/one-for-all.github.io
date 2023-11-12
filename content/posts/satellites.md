@@ -1,4 +1,7 @@
-# Satellites
+---
+title: "Satellites"
+date: "2023-11-10"
+---
 
 In my favorite manga One Piece, the genius scientist Vegapunk created 6
 satellites (or offshoots/clones) because he was too busy with his work. These
