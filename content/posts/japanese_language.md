@@ -1,6 +1,6 @@
 ---
 title: "What I learned from learning Japanese"
-date: "2024-2-22"
+date: "2024-02-22"
 ---
 
 1. It is not esay to learn a new skill. Learning a new skill might appear to be easy, because you often do not have a good standard for comparison, and most people are very poor on that skill. But when learning a second language, it is very easy to compare against native speakers and realize your insufficiency.
