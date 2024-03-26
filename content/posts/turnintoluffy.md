@@ -9,4 +9,4 @@ I had to work out my plan after Japan, and to get long-term visa to almost any c
 
 I don't intend to work for someone, as that is one of the reasons I quit job in the first place. So, I needed an idea to execute on, and came upon it: create Fan Request cover page creation tool for One Piece. You send in a description of what you want to be drawn, and I create for you (w/ AI). It is a mimic of the real one that Oda Enricho does on One Piece manga.
 
-Now that this product has been launched (though fairly unsuccessful so far), I will write down what I did. kinda like a review for myself.
+Now that this product has been launched (though fairly unsuccessful so far), I will write down what I did. kinda like a review for myself. (to be continued)
