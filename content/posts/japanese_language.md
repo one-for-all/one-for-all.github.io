@@ -3,7 +3,7 @@ title: "What I learned from learning Japanese"
 date: "2024-02-22"
 ---
 
-1. It is not esay to learn a new skill. Learning a new skill might appear to be easy, because you often do not have a good standard for comparison, since most people are very poor on that skill. But when learning a second language, it is very easy to compare against native speakers and realize your insufficiency.
+1. It is not easy to learn a new skill. Learning a new skill might appear to be easy, because you often do not have a good standard for comparison, since most people are very poor on that skill. But when learning a second language, it is very easy to compare against native speakers and realize your insufficiency.
 
 2. However, mastering a new skill is also not as hard as one might imagine. You just need to put in real effort, and you can become pro, just like many non-native speakers who can speak as well as or even better than native speakers.
 
