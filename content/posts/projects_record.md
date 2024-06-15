@@ -3,7 +3,7 @@ title: "Projects that I remember I worked on"
 date: "2024-05-25"
 ---
 
-Brain is an awesome machine for making associations, but might not be best for keeping a catalog of things. Therefore, I write down projects that I remember I worked on here:
+Brain is an awesome machine for association, but might not be best for cataloging. So I jot down projects that I remember worked on here:
 
 1. Underwater Mobile Robot
 1. Desktop Robot Arm
